@@ -65,21 +65,6 @@ Modular data transformation platform with **Factory** and **Strategy** design pa
 - Reusable data cleaning algorithms
 
 ---
-
-### 🤖 [Nutrition Risk Classification](https://github.com/devMaherMNB/nutrition-ml)
-Machine Learning classifier for food health risk assessment using **Random Forest**. Statistical modeling with feature engineering and hyperparameter tuning.
-
-**Tech:** Python • Scikit-learn • Pandas • NumPy
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=devMaherMNB&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devMaherMNB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devMaherMNB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🎓 Certifications
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** (Jan 2026)
 - **Databricks Lakehouse Fundamentals** (Jan 2026)
