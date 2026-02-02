@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maher Balchi
+# 👋 Hi, I'm Maher
 
 **Data Engineer** | Riyadh, Saudi Arabia 🇸🇦
 
