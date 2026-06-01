@@ -30,10 +30,6 @@ Modular data transformation platform with **Factory** and **Strategy** design pa
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/maher-balchi)
-- 📧 maher.17.m@gmail.com
-- 📍 Based in Riyadh, Saudi Arabia
 
 ---
 
